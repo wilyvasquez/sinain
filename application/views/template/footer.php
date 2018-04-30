@@ -1,8 +1,11 @@
 <div class="footer">
 	<div class="container">
 		<div class="col-md-4 footer-grids">
-			<h3>Nosotros</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sheets containing lorem lpsum passages sed do consectetur adipisicing elit.</p>
+			<h3>Horario</h3>
+			<p>Lunes a Viernes</p>
+			<span><a href="#">9:00 am a 07:00 pm</a></span>
+			<p>Sabado</p>
+			<span><a href="#">9:00 am a 05:00 pm</a></span>
 		</div> 
 		<div class="col-md-3 footer-grids"> 
 			<h3>Buscanos</h3>

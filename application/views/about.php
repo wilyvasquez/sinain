@@ -71,8 +71,8 @@
 			<div class="about-section abt-w3sec2 w3ls">
 				<div class="col-md-5 ab-text two w3-agileits">
 					<h2 class="agileits-title">Nosotros</h2> 
-					<h6>Itaque earum rerum hic tenetur a optio sapiente nihil impedit</h6>
-					<p>Lorem ipsum Nam libero tempore cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere.Lorem Ipsum has been the industry's standard dummy text ever since.</p>
+					<h6>Satisfacer las expectativas de imagen a las personas</h6>
+					<p>Trabajamos día a día con la  convicción que la responsabilidad es un valor indispensable, en la realización de cualquier tarea, ya que de esta se desprende la satisfacción deseada por el cliente sobre el trabajo realizado.</p>
 					<div class="start">
 						<a href="single.html" class="hvr-bounce-to-bottom">Leer Mas</a>
 					</div> 
@@ -109,37 +109,34 @@
 	<!-- services-bottom -->
 	<div class="services services-bottom wthree-sub">
 		<div class="container">
-			<div class="services_bottom_grid_left1">
-				<img src="<?= base_url() ?>assets/images/4.png" alt=" " class="img-responsive"/>
-			</div>
 			<div class="col-sm-6 col-xs-5 services_bottom_grid_left">
-				
+				<p style="font-size: 20px; text-align: justify;">Las personas están lo primero, y lo expresamos  comportándonos con respeto y una actitud atenta hacia nuestros clientes, compañeros y proveedores, apreciando su valor como personas. Nuestro espíritu de servicio nos anima cada día en nuestra superación personal y profesional, Nuestra pasión por esta profesión, nos aporta la energía suficiente para desarrollar y realizar nuestro trabajo con entusiasmo  e ilusión. </p>
 			</div>
 			<div class="col-sm-6 col-xs-7 services_bottom_grid_right">
 				<h3 class="agileits-title w3title2">Por que <span> Escogernos</span></h3>  
-				<div class="skillbar" data-percent="78">
-				  <span class="skillbar-title" style="background: #f1703a;">Lorem</span>
+				<div class="skillbar" data-percent="100">
+				  <span class="skillbar-title" style="background: #f1703a;">Compromiso</span>
 				  <p class="skillbar-bar" style="background: #f88c5e;"></p>
 				  <span class="skill-bar-percent"></span>
 				</div>
 				<!-- End Skill Bar -->
 				
-				<div class="skillbar" data-percent="54">
-				  <span class="skillbar-title" style="background: #2980b9;">Ipsum</span>
+				<div class="skillbar" data-percent="100">
+				  <span class="skillbar-title" style="background: #2980b9;">Profesionalismo</span>
 				  <p class="skillbar-bar" style="background: #3498db;"></p>
 				  <span class="skill-bar-percent"></span>
 				</div>
 				<!-- End Skill Bar -->
 				
-				<div class="skillbar" data-percent="76">
-				  <span class="skillbar-title" style="background: #a0d034;">Tortor</span>
+				<div class="skillbar" data-percent="100">
+				  <span class="skillbar-title" style="background: #a0d034;">Calidad</span>
 				  <p class="skillbar-bar" style="background: #b2ec2f;"></p>
 				  <span class="skill-bar-percent"></span>
 				</div>
 				<!-- End Skill Bar -->
 				
-				<div class="skillbar" data-percent="80">
-				  <span class="skillbar-title" style="background: #e7cc2c;">Odio</span>
+				<div class="skillbar" data-percent="100">
+				  <span class="skillbar-title" style="background: #e7cc2c;">Responsabilidad</span>
 				  <p class="skillbar-bar" style="background: #f5d410;"></p>
 				  <span class="skill-bar-percent"></span>
 				</div>

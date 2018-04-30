@@ -66,8 +66,7 @@
 					<rect id="base" x="0" y="0" width="100%" height="100%" mask="url(#mask)"/> 
 				</svg>     
 			</div>   
-			<p class="bnrw3-agiletext">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. </p>
+			<p class="bnrw3-agiletext">Centro de Imagen Personal, justo y de referencia en nuestra comunidad, un equipo a la vanguardia en las ultimas técnicas y tendencias, en constante evolución mediante el desarrollo personal y profesional.</p>
 		</div>     
 		<!-- //banner-text -->  	
 	</div>	 
@@ -90,7 +89,7 @@
 					<div class="grid">
 						<div class="col-xs-6 abt-w3limg">
 							<figure class="effect-jazz">
-								<img src="<?= base_url() ?>assets/images/not found.png" alt=""/>
+								<img src="<?= base_url() ?>assets/images/2-estilismo.jpg" alt=""/>
 								<figcaption>
 									<h4>Titulo<span>Titulo</span></h4>
 									<p>Lorem ipsum Nam libero tempore cum soluta nobis est at facere nobis.</p> 
@@ -99,7 +98,7 @@
 						</div>
 						<div class="col-xs-6 abt-w3limg">
 							<figure class="effect-jazz">
-								<img src="<?= base_url() ?>assets/images/not found.png" alt=""/>
+								<img src="<?= base_url() ?>assets/images/belleza-n.png" alt=""/>
 								<figcaption>
 									<h4>Titulo<span>Titulo</span></h4>
 									<p>Lorem ipsum Nam libero tempore cum soluta nobis est at facere nobis.</p> 
@@ -111,10 +110,10 @@
 			   </div>
 			   <div class="col-md-5 ab-text w3-agileits">
 			        <h3 class="agileits-title">BIENVENIDO</h3> 
-					<h6>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim odit debitis odio eum neque soluta.</h6>
-					<p class="wow slideInUp">Lorem ipsum Nam libero tempore cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere.Lorem Ipsum has been the industry's standard dummy text ever since.</p>
+					<h6>La belleza es poder; una sonrisa es su espada.</h6>
+					<p class="wow slideInUp">Nuestro objetivo es brindar a nuestros clientes servicios y productos profesionales e innovadores de calidad que hagan resaltar su belleza y estilo. Buscando siempre el balance perfecto: Belleza y humanidad.</p>
 					<div class="start wow flipInX">
-						<a href="single.html" class="hvr-bounce-to-bottom">Leer mas</a>
+						<!-- <a href="single.html" class="hvr-bounce-to-bottom">Leer mas</a> -->
 					</div> 
 				</div>
 				<div class="clearfix"> </div>
@@ -124,17 +123,17 @@
 			<div class="about-section abt-w3sec2">
 				<div class="col-md-5 ab-text two w3-agileits">
 					<h3 class="agileits-title">NOSOTROS</h3> 
-					<h6>Itaque earum rerum hic tenetur a optio sapiente nihil impedit</h6>
-					<p>Lorem ipsum Nam libero tempore cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere.Lorem Ipsum has been the industry's standard dummy text ever since.</p>
+					<h6>Combinamos nuestro talento y esfuerzo a fin de lograr la satisfacción de nuestros clientes.</h6>
+					<p>Ser un centro de estética integral reconocido, distinguido y demandante en el mundo de la belleza, enfocado a la elegancia y vanguardia, siempre en contacto con la tendencia y moda para atender a nuestros más exigentes clientes.</p>
 					<div class="start">
-						<a href="single.html" class="hvr-bounce-to-bottom">Leer mas</a>
+						<!-- <a href="single.html" class="hvr-bounce-to-bottom">Leer mas</a> -->
 					</div> 
 				</div>
 				<div class="col-md-7 ab-left w3-agileits">
 					<div class="grid">
 						<div class="col-xs-6 abt-w3limg">
 							<figure class="effect-jazz">
-								<img src="<?= base_url() ?>assets/images/not found.png" alt=""/>
+								<img src="<?= base_url() ?>assets/images/682.jpg" alt=""/>
 								<figcaption>
 									<h4>Titulo<span>texto</span></h4>  
 									<p>Lorem ipsum Nam libero tempore cum soluta nobis est at facere nobis.</p> 
@@ -143,7 +142,7 @@
 						</div>
 						<div class="col-xs-6 abt-w3limg">
 							<figure class="effect-jazz">
-								<img src="<?= base_url() ?>assets/images/not found.png" alt=""/>
+								<img src="<?= base_url() ?>assets/images/meikkaus.jpg" alt=""/>
 								<figcaption>
 									<h4>Titulo<span>texto</span></h4>
 									<p>Lorem ipsum Nam libero tempore cum soluta nobis est at facere nobis.</p> 
@@ -208,7 +207,7 @@
 							<figure class="effect-jazz">
 								<img src="<?= base_url() ?>assets/images/manicure.jpg" alt=""/>
 								<figcaption>
-									<h4>UÑAS <span>MANICURE</span></h4>
+									<h4>UÑAS <span>HERMOSAS</span></h4>
 									<p>Lorem ipsum Nam libero tempore cum soluta nobis est at facere nobis.</p> 
 								</figcaption>			
 							</figure> 
@@ -217,7 +216,7 @@
 							<figure class="effect-jazz">
 								<img src="<?= base_url() ?>assets/images/manicure_2.jpg" alt=""/>
 								<figcaption>
-									<h4>UÑAS<span>PERFECTAS</span></h4>
+									<h4>UÑAS <span>PERFECTAS</span></h4>
 									<p>Lorem ipsum Nam libero tempore cum soluta nobis est at facere nobis.</p> 
 								</figcaption>			
 							</figure> 
