@@ -277,17 +277,17 @@
 		</div>
 	</div>
 	<!-- services -->
-	<div class="jarallax" style=" background:url('<?= base_url() ?>assets/images/05-Newstyle.jpg')">
+	<div class="jarallax" style=" background:url('<?= base_url() ?>assets/images/beauty_collection.jpg')">
 		<div class="container">
 			<h3 class="agileits-title w3title2" style="margin-top: 10px">PRODUCTOS</h3> 
 			<hr>
 			<div class="col-md-7">
-				<p style="font-size: 20px; text-align: justify;">
+				<h6 style="font-size: 20px; text-align: justify;color: white">
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse.
-					<ul style="font-size: 20px;color: gray; margin-left: 30px">
+					<ul style="font-size: 20px;color: gray; margin-left: 30px;margin-top: 5px">
 						<li>Lorem ipsum dolor sit amet</li>
 						<li>Lorem ipsum dolor sit amet</li>
 						<li>Lorem ipsum dolor sit amet</li>
@@ -296,7 +296,7 @@
 						<li>Lorem ipsum dolor sit amet</li>
 						<li>Lorem ipsum dolor sit amet</li>
 					</ul>
-				</p><br>	 				
+				</h6><br>	 				
 			</div>
 		</div>
 	</div>	
