@@ -140,7 +140,8 @@
 		</div>
 	</div>
 	<div class="map-grid">
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d424143.0428986048!2d150.65177630482995!3d-33.847973034849154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b129838f39a743f%3A0x3017d681632a850!2sSydney+NSW%2C+Australia!5e0!3m2!1sen!2sin!4v1488261232220" class="map" style="border:0" allowfullscreen></iframe>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d952.5066164936393!2d-97.67940607077584!3d17.265954479930564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c62f6d56ad0f97%3A0xa29462e51c058582!2sEstetica+SINAI!5e0!3m2!1ses!2smx!4v1525533633210" frameborder="1" style="border:0" allowfullscreen></iframe>
+		<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d424143.0428986048!2d150.65177630482995!3d-33.847973034849154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b129838f39a743f%3A0x3017d681632a850!2sSydney+NSW%2C+Australia!5e0!3m2!1sen!2sin!4v1488261232220" class="map" style="border:0" allowfullscreen></iframe> -->
 	</div>
 	<!-- contact --> 
 	<!-- reservation -->
