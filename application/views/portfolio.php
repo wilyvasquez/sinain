@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>SINAI Lorem ipsum dolor sit amet, consectetur adipisicing elit</title>  
+<title>SINAI salon de belleza profesional</title>  
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Fit&Spa Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
@@ -65,76 +65,83 @@
 					<li class="active" data-filter="all">Todos</li>
 					<li data-filter="1">FANTASIA</li>
 					<li data-filter="2">PERMANENTES</li>
-					<li data-filter="3">Categoria 3</li>
+					<li data-filter="3">PEINADOS</li>
+					<li data-filter="3">TINTES</li>
+					<li data-filter="3">PEDICURE</li>
+					<li data-filter="3">MANICURE</li>
+					<li data-filter="3">ESMALTADOS</li>
+					<li data-filter="3">DEPILACION</li>
+					<li data-filter="3">CORTES</li>
+					<li data-filter="3">PEINADOS</li>
 				</ul>
 				<div class="filtr-container">
-					<div class="col-md-4 col-sm-4 col-xs-6 filtr-item" data-category="1" data-sort="Busy streets">
+					<div class="col-md-2 col-sm-2 col-xs-6 filtr-item" data-category="1" data-sort="Busy streets">
 						<div class="agileits-img">
 							<a href="<?= base_url() ?>assets/images/fantasia_5.jpg" class="swipebox" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis maximus tortor diam, ac lobortis justo rutrum quis. Praesent non purus fermentum, eleifend velit non">
 								<img class="img-responsive" src="<?= base_url() ?>assets/images/fantasia_5.jpg" alt=""/> 
 							</a> 
 						</div>
 					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 filtr-item" data-category="1" data-sort="Busy streets">
+					<div class="col-md-2 col-sm-2 col-xs-6 filtr-item" data-category="1" data-sort="Busy streets">
 						<div class="agileits-img">
 							<a href="<?= base_url() ?>assets/images/fantasia_4.jpg" class="swipebox" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis maximus tortor diam, ac lobortis justo rutrum quis. Praesent non purus fermentum, eleifend velit non">
 								<img class="img-responsive" src="<?= base_url() ?>assets/images/fantasia_4.jpg" alt=""  /> 
 							</a> 
 						</div>
 					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 filtr-item" data-category="1" data-sort="Busy streets">
+					<div class="col-md-2 col-sm-2 col-xs-6 filtr-item" data-category="1" data-sort="Busy streets">
 						<div class="agileits-img">
 							<a href="<?= base_url() ?>assets/images/fantasia_3.jpg" class="swipebox" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis maximus tortor diam, ac lobortis justo rutrum quis. Praesent non purus fermentum, eleifend velit non">
 								<img class="img-responsive" src="<?= base_url() ?>assets/images/fantasia_3.jpg" alt=""  /> 
 							</a> 
 						</div>
 					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 filtr-item" data-category="1" data-sort="Busy streets">
+					<div class="col-md-2 col-sm-2 col-xs-6 filtr-item" data-category="1" data-sort="Busy streets">
 						<div class="agileits-img">
 							<a href="<?= base_url() ?>assets/images/fantasia_2.jpg" class="swipebox" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis maximus tortor diam, ac lobortis justo rutrum quis. Praesent non purus fermentum, eleifend velit non">
 								<img class="img-responsive" src="<?= base_url() ?>assets/images/fantasia_2.jpg" alt=""  /> 
 							</a> 
 						</div>
 					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 filtr-item" data-category="1" data-sort="Busy streets">
+					<div class="col-md-2 col-sm-2 col-xs-6 filtr-item" data-category="1" data-sort="Busy streets">
 						<div class="agileits-img">
 							<a href="<?= base_url() ?>assets/images/fantasia_1.jpg" class="swipebox" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis maximus tortor diam, ac lobortis justo rutrum quis. Praesent non purus fermentum, eleifend velit non">
 								<img class="img-responsive" src="<?= base_url() ?>assets/images/fantasia_1.jpg" alt=""  /> 
 							</a> 
 						</div>
 					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 filtr-item" data-category="1" data-sort="Busy streets">
+					<div class="col-md-2 col-sm-2 col-xs-6 filtr-item" data-category="1" data-sort="Busy streets">
 						<div class="agileits-img">
 							<a href="<?= base_url() ?>assets/images/fantasia_6.jpg" class="swipebox" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis maximus tortor diam, ac lobortis justo rutrum quis. Praesent non purus fermentum, eleifend velit non">
 								<img class="img-responsive" src="<?= base_url() ?>assets/images/fantasia_6.jpg" alt=""  /> 
 							</a> 
 						</div>
 					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 filtr-item" data-category="2" data-sort="Luminous night">
+					<div class="col-md-2 col-sm-2 col-xs-6 filtr-item" data-category="2" data-sort="Luminous night">
 						<div class="agileits-img">
 							<a href="<?= base_url() ?>assets/images/permanente_1.jpg" class="swipebox" title="Duis maximus tortor diam, ac lobortis justo rutrum quis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non purus fermentum, eleifend velit non">
 								<img src="<?= base_url() ?>assets/images/permanente_1.jpg" alt="" class="img-responsive" />
 							</a>	
 						</div>
 					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 filtr-item" data-category="2" data-sort="City wonders">
+					<div class="col-md-2 col-sm-2 col-xs-6 filtr-item" data-category="2" data-sort="City wonders">
 						<div class="agileits-img">
 							<a href="<?= base_url() ?>assets/images/not found_2.png" class="swipebox" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis maximus tortor diam, ac lobortis justo rutrum quis. Praesent non purus fermentum, eleifend velit non">
 								<img src="<?= base_url() ?>assets/images/not found_2.png" alt="" class="img-responsive  " />
 							</a>	
 						</div>
 					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 filtr-item" data-category="3" data-sort="Industrial site">
+					<div class="col-md-2 col-sm-2 col-xs-6 filtr-item" data-category="3" data-sort="Industrial site">
 						<div class="agileits-img">
-							<a href="<?= base_url() ?>assets/images/not found_2.png" class="swipebox" title="Praesent non purus fermentum, eleifend velit non Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis maximus tortor diam, ac lobortis justo rutrum quis.">
-								<img src="<?= base_url() ?>assets/images/not found_2.png" alt="" class="img-responsive " />
+							<a href="<?= base_url() ?>assets/images/peinados.jpg" class="swipebox" title="Praesenttt non purus fermentum, eleifend velit non Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis maximus tortor diam, ac lobortis justo rutrum quis.">
+								<img src="<?= base_url() ?>assets/images/peinados.jpg" alt="" class="img-responsive " />
 							</a>	
 						</div>
 					</div>
-					<div class="col-md-4 col-sm-4 col-xs-6 filtr-item" data-category="3" data-sort="In production">
+					<div class="col-md-2 col-sm-2 col-xs-6 filtr-item" data-category="3" data-sort="In production">
 						<div class="agileits-img">
-							<a href="<?= base_url() ?>assets/images/not found_2.png" class="swipebox" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis maximus tortor diam, ac lobortis justo rutrum quis. Praesent non purus fermentum, eleifend velit non">
-								<img src="<?= base_url() ?>assets/images/not found_2.png" alt="" class="img-responsive  " />
+							<a href="<?= base_url() ?>assets/images/peinados_2.jpg" class="swipebox" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis maximus tortor diam, ac lobortis justo rutrum quis. Praesent non purus fermentum, eleifend velit non">
+								<img src="<?= base_url() ?>assets/images/peinados_2.jpg" alt="" class="img-responsive  " />
 							</a>	
 						</div>
 					</div>

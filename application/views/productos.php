@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>SINAI Lorem ipsum dolor sit amet, consectetur adipisicing elit</title> 
+<title>SINAI salon de belleza profesional</title> 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Fit&Spa Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
@@ -58,7 +58,7 @@
 	<!-- single -->
 	<div class="single about">
 		<div class="container">
-			<h2 class="agileits-title">Servicios</h2> 
+			<h2 class="agileits-title">Productos</h2> 
 			<!-- <div class="wthree_single_grid">
 				<h4>Itaque earum rerum hic tenetur</h4>
 				<ul>
@@ -98,7 +98,7 @@
 			</div>
 			
 			<div class="popular-posts">
-				<h4 class="w3ls-title">Servicios mas populares</h4>
+				<h4 class="w3ls-title">Productos mas populares</h4>
 				<div class="popular-posts-grids">
 					<div class="col-md-3 col-sm-3 col-xs-6 popular-posts-grid">	
 						<div class="popular-posts-grid1">
